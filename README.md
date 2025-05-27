@@ -1,6 +1,6 @@
 # 🛒 Tienda Virtual - Sistema de Gestión de Productos
 
-Este proyecto es una aplicación web que permite administrar y visualizar productos en una tienda virtual. Los administradores pueden agregar, editar y eliminar artículos, mientras que los usuarios pueden explorar productos clasificados por categorías como **Figuras**, **Cosplays** y **Accesorios**.
+Este proyecto llamado "iComic" es una aplicación web que permite administrar y visualizar productos en una tienda virtual. Los administradores pueden agregar, editar y eliminar artículos, mientras que los usuarios pueden explorar productos clasificados por categorías como **Figuras**, **Cosplays** y **Accesorios**.
 
 ## 🚀 Funcionalidades
 
