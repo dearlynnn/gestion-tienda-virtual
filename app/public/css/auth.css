@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+/* General */
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    background: url(../images/fondo.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Container principal */
+.container {
+    position: relative;
+    width: 400px;
+    padding: 40px;
+    border: 2px solid rfba(255, 255, 255, .6);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Formulario */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin: 10px 0;
+    padding: 15px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    border: none;
+    padding: 15px 20px;
+    background-color: #ff416c;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #ff4b2b;
+}
+
+/* Enlace entre las páginas */
+p {
+    margin-top: 15px;
+}
+
+a {
+    color: #ff416c;
+    text-decoration: none;
+}
+
